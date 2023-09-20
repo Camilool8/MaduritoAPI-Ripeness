@@ -1,0 +1,29 @@
+# Virtual environment related
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+*.egg
+*.log
+
+# Pipenv files (Though it's common to keep Pipfile and Pipfile.lock in version control)
+#Pipfile
+#Pipfile.lock
+
+# Environment variables file
+.env
+
+# Personal scripts that shouldn't be in version control (comment out if not needed)
+#jsonfix.py
+#api_to_json.py
+#json_to_excel.py
+
+# Miscellaneous
+*.pdf
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,6 @@
+flask
+requests
+regex
+browser_cookie3
+bardapi
+python-dotenv
