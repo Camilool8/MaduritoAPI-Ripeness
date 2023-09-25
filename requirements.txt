@@ -4,3 +4,5 @@ regex
 browser_cookie3
 bardapi
 python-dotenv
+selenium
+seleniumbase
