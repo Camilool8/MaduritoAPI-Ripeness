@@ -56,6 +56,7 @@ def get_ripeness():
         image_data = image_data.read()
 
         bardcookies = extract_bard_cookie(cookies=True)
+        print(bardcookies)
         token = bardcookies["__Secure-1PSID"]
 
         session = requests.Session()
