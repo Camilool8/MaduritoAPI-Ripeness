@@ -12,7 +12,7 @@ def extract_bard_cookie(cookies: bool = False) -> dict:
     """Extracts the Bard cookie from the browser."""
 
     supported_browsers = [
-        browser_cookie3.safari,
+        browser_cookie3.chrome,
     ]
 
     cookie_dict = {}
